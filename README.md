@@ -42,6 +42,8 @@ Explain the following in detail:
 
 # Screenshots if relevant
 
+* Attach relevant screenshots if needed. 
+
 # Steps to run the software
 
 * Explain in detail how can one run your software, what steps needed
