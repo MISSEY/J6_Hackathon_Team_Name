@@ -2,7 +2,7 @@
 Dummy Repository for submission format for J6 Hackathon
 
 # Team Members
-- Team leader : 
+- Team Leader : 
 - Team Member 1 : 
 - Team Member 2 :
 - Team Member 3 : 
@@ -11,7 +11,7 @@ Dummy Repository for submission format for J6 Hackathon
 
 # Problem Statement
 
-Define problem statment (not more than 250 words)
+Define problem statement (not more than 250 words)
 
 For Example: Voice recognition technologies, such as Amazon Alexa, Google Home or Apple Siri are integrated in various tools which are used by a broad community on a regular bases to manage certain task faster and more easily. However, little attention is drawn to the needs of hearing impaired individuals. We like to explore the possibilities of object recognition for sign language and its application in everyday used technology.
 
@@ -38,7 +38,7 @@ Explain the following in detail:
 
 # Working Prototype
 
-* Attach link of working prototype video here in markdown
+* Attach link of working prototype video here in the markdown.
 
 # Screenshots if relevant
 
@@ -46,4 +46,4 @@ Explain the following in detail:
 
 # Steps to run the software
 
-* Explain in detail how can one run your software, what steps needed
+* Explain in detail how can one run your software, what steps needed.
