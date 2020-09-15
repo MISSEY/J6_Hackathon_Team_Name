@@ -1,5 +1,5 @@
 # J6_Hackathon_Team_Name
-Dummy Repository for submission format for J6 Hackathon
+Example Repository for submission format for J6 Hackathon
 
 # Team Members
 - Team Leader : 
@@ -47,3 +47,5 @@ Explain the following in detail:
 # Steps to run the software
 
 * Explain in detail how can one run your software, what steps needed.
+* What libraries needs to be installed.
+* How to setup an executable environment.
