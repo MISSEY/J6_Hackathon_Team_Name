@@ -15,7 +15,7 @@ However, you are welcome to hand in additional information about your applicatio
 
 Define problem statement (not more than 250 words).
 
-For Example: Voice recognition applications are designed to facilitate the usage of various technologies such as smartphones for instance. However, this technology is not suitable for all members of our community. Hhearing impaired individuals, for explample, can not use voice recognition to manipulate a device from a certain distance. Therefore, we like to apply object recognition to tackle this issue. With our applictaion, we want to explore in how far sign language can be used to maniupulate technologies that are used in everday life. 
+For Example: Voice recognition applications are designed to facilitate the usage of various technologies such as smartphones for instance. However, this technology is not suitable for all members of our community. Hearing impaired individuals, for explample, can not use voice recognition to manipulate a device from a certain distance. Therefore, we like to apply object recognition to tackle this issue. With our applictaion, we want to explore in how far sign language can be used to maniupulate technologies that are used in everday life. 
 
 # Solution
 
