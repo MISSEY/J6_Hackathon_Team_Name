@@ -1,6 +1,7 @@
 # J6_Hackathon_Team_Name
 Example Repository: Submission format for J6 Hackathon
-Submitting the following listed information is mandatory. However, you are welcome to hand in additional information about your application.
+Submitting the following listed information is mandatory. 
+However, you are welcome to hand in additional information about your application.
 
 # Team Members
 - Team Leader : 
@@ -14,7 +15,7 @@ Submitting the following listed information is mandatory. However, you are welco
 
 Define problem statement (not more than 250 words).
 
-For Example: Voice recognition technologies, such as Amazon Alexa, Google Home or Apple Siri are integrated in various tools which are used by a broad community on a regular bases to manage certain task faster and more easily. However, little attention is drawn to the needs of hearing impaired individuals. We like to explore the possibilities of object recognition for sign language and its application in everyday used technology.
+For Example: Voice recognition applications are designed to facilitate the usage of various technologies such as smartphones for instance. However, this technology is not suitable for all members of our community. Hhearing impaired individuals, for explample, can not use voice recognition to manipulate a device from a certain distance. Therefore, we like to apply object recognition to tackle this issue. With our applictaion, we want to explore in how far sign language can be used to maniupulate technologies that are used in everday life. 
 
 # Solution
 
