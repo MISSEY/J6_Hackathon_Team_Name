@@ -12,7 +12,7 @@ However, you are welcome to hand in additional information about your applicatio
 * Team Member 4 : 
 * Team Member 5 : 
 
-Upload a picture of yourselves
+Upload a picture of yourselves.
 
 # Toy Project
 ## Problem Statement
