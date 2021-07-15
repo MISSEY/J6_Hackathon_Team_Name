@@ -4,7 +4,7 @@ Submitting the following listed information is mandatory.
 However, you are welcome to hand in additional information about your application.
 
 # The Team
-## Team Members
+### Team Members
 - Team Leader : 
 - Team Member 1 : 
 - Team Member 2 :
@@ -14,9 +14,16 @@ However, you are welcome to hand in additional information about your applicatio
 
 Upload a picture of yourselves
 
-# Learning Phase
+# Toy Project
+## Problem Statement
+Define which problem you solved with your project.
 
-# Problem Statement
+## Learning Process
+Decribe which tools you used within the learning phase and how you achieved to build your project. Additionally, formulate what you have learning during this project.
+
+ 
+# Coding Competition
+## Problem Statement
 
 Define your problem statement (not more than 250 words).
 
