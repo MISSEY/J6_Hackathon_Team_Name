@@ -4,7 +4,7 @@ Submitting the following listed information is mandatory.
 However, you are welcome to hand in additional information about your application.
 
 # The Team
-Team Members
+## Team Members
 - Team Leader : 
 - Team Member 1 : 
 - Team Member 2 :
