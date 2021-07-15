@@ -3,13 +3,18 @@ This is an example repository showing the submission format for J6 Hackathon 202
 Submitting the following listed information is mandatory. 
 However, you are welcome to hand in additional information about your application.
 
-# Team Members
+# The Team
+Team Members
 - Team Leader : 
 - Team Member 1 : 
 - Team Member 2 :
 - Team Member 3 : 
 - Team Member 4 : 
 - Team Member 5 : 
+
+Upload a picture of yourselves
+
+# Learning Phase
 
 # Problem Statement
 
